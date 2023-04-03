@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kelvin</h1>
+<h1 align="center">Hi 👋, I'm Muiruri Kamau</h1>
 <h3 align="center">I am interested in web development, cyber security, network management, AI and machine learning.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kelvin-kamau999" alt="kelvin-kamau999" /></a> </p>
